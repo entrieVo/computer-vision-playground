@@ -6,3 +6,4 @@
 
 -   [Границы и локальные дескрипторы — Sobel, Canny, HOG](https://github.com/entrieVo/computer-vision-playground/tree/main/cv/edges_local_descriptors)
 -   [Локальные дескрипторы и сверточные нейронные сети](https://github.com/entrieVo/computer-vision-playground/tree/main/cv/sift_cnn)
+-   [Простые методы классификации](https://github.com/entrieVo/computer-vision-playground/tree/main/fuzzy/simple-classification-methods)
